@@ -1,0 +1,32 @@
+[
+  {
+    "id": "casa-mar",
+    "nombre": "Casa Mar",
+    "ubicacion": "Matanzas",
+    "estado": "En Ejecución",
+    "avance": 8.5,
+    "dataFile": "casaMAR",
+    "color": "#0ea5e9",
+    "icono": "🏖️"
+  },
+  {
+    "id": "cas",
+    "nombre": "CAS",
+    "ubicacion": "Casablanca",
+    "estado": "En Licitación",
+    "avance": 0,
+    "dataFile": null,
+    "color": "#8b5cf6",
+    "icono": "🏗️"
+  },
+  {
+    "id": "bludenz",
+    "nombre": "Bludenz",
+    "ubicacion": "Valparaíso",
+    "estado": "Anteproyecto",
+    "avance": 0,
+    "dataFile": null,
+    "color": "#10b981",
+    "icono": "🏢"
+  }
+]

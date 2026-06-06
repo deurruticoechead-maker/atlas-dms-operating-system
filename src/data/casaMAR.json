@@ -1,0 +1,324 @@
+{
+  "id": "casa-mar",
+  "nombre": "Casa Mar",
+  "ubicacion": "Matanzas, Chile",
+  "cliente": "Constructora DMS SpA",
+  "fechaInicio": "2024-09-01",
+  "fechaTermino": "2025-08-31",
+  "estado": "En Ejecución",
+  "kpis": {
+    "contratoNeto": 224700000,
+    "avanceEconomico": 8.5,
+    "pagado": 58500000,
+    "saldo": 166200000,
+    "avanceFisico": 12.3,
+    "diasRestantes": 452
+  },
+  "partidas": [
+    {
+      "id": 1,
+      "nombre": "Obras Preliminares",
+      "zona": "Z1",
+      "avance": 100,
+      "estado": "Completo",
+      "presupuesto": 4200000,
+      "ejecutado": 4200000,
+      "responsable": "Javier Rojas",
+      "fechaInicioReal": "2024-09-01",
+      "fechaTerminoReal": "2024-09-20"
+    },
+    {
+      "id": 2,
+      "nombre": "Excavaciones y Movimiento de Tierras",
+      "zona": "Z1",
+      "avance": 100,
+      "estado": "Completo",
+      "presupuesto": 8500000,
+      "ejecutado": 8490000,
+      "responsable": "Javier Rojas",
+      "fechaInicioReal": "2024-09-10",
+      "fechaTerminoReal": "2024-10-05"
+    },
+    {
+      "id": 3,
+      "nombre": "Fundaciones",
+      "zona": "Z1",
+      "avance": 100,
+      "estado": "Completo",
+      "presupuesto": 18700000,
+      "ejecutado": 18650000,
+      "responsable": "Pedro Soto",
+      "fechaInicioReal": "2024-10-06",
+      "fechaTerminoReal": "2024-11-15"
+    },
+    {
+      "id": 4,
+      "nombre": "Estructura – Losa Piso 1",
+      "zona": "Z1",
+      "avance": 85,
+      "estado": "En proceso",
+      "presupuesto": 22400000,
+      "ejecutado": 19040000,
+      "responsable": "Pedro Soto",
+      "fechaInicioReal": "2024-11-16",
+      "fechaTerminoReal": null
+    },
+    {
+      "id": 5,
+      "nombre": "Estructura – Losa Piso 2",
+      "zona": "Z1",
+      "avance": 20,
+      "estado": "En proceso",
+      "presupuesto": 21000000,
+      "ejecutado": 4200000,
+      "responsable": "Pedro Soto",
+      "fechaInicioReal": "2025-01-10",
+      "fechaTerminoReal": null
+    },
+    {
+      "id": 6,
+      "nombre": "Tabiques y Albañilería – Dormitorio 1",
+      "zona": "Z1",
+      "avance": 0,
+      "estado": "Pendiente",
+      "presupuesto": 9800000,
+      "ejecutado": 0,
+      "responsable": "Luis Vera",
+      "fechaInicioReal": null,
+      "fechaTerminoReal": null
+    },
+    {
+      "id": 7,
+      "nombre": "Instalaciones Sanitarias – Área Común",
+      "zona": "Z2",
+      "avance": 45,
+      "estado": "En proceso",
+      "presupuesto": 14300000,
+      "ejecutado": 6435000,
+      "responsable": "Mario Díaz",
+      "fechaInicioReal": "2024-12-01",
+      "fechaTerminoReal": null
+    },
+    {
+      "id": 8,
+      "nombre": "Instalaciones Eléctricas – Área Común",
+      "zona": "Z2",
+      "avance": 30,
+      "estado": "En proceso",
+      "presupuesto": 11200000,
+      "ejecutado": 3360000,
+      "responsable": "Carlos Muñoz",
+      "fechaInicioReal": "2024-12-15",
+      "fechaTerminoReal": null
+    },
+    {
+      "id": 9,
+      "nombre": "Revestimientos – Área Común",
+      "zona": "Z2",
+      "avance": 0,
+      "estado": "Pendiente",
+      "presupuesto": 16500000,
+      "ejecutado": 0,
+      "responsable": "Luis Vera",
+      "fechaInicioReal": null,
+      "fechaTerminoReal": null
+    },
+    {
+      "id": 10,
+      "nombre": "Carpintería – Área Común",
+      "zona": "Z2",
+      "avance": 0,
+      "estado": "Pendiente",
+      "presupuesto": 12800000,
+      "ejecutado": 0,
+      "responsable": "Ana Torres",
+      "fechaInicioReal": null,
+      "fechaTerminoReal": null
+    },
+    {
+      "id": 11,
+      "nombre": "Tabiques y Albañilería – Dormitorio 2",
+      "zona": "Z3",
+      "avance": 0,
+      "estado": "Pendiente",
+      "presupuesto": 9200000,
+      "ejecutado": 0,
+      "responsable": "Luis Vera",
+      "fechaInicioReal": null,
+      "fechaTerminoReal": null
+    },
+    {
+      "id": 12,
+      "nombre": "Instalaciones Sanitarias – Dormitorio 2",
+      "zona": "Z3",
+      "avance": 0,
+      "estado": "Pendiente",
+      "presupuesto": 8700000,
+      "ejecutado": 0,
+      "responsable": "Mario Díaz",
+      "fechaInicioReal": null,
+      "fechaTerminoReal": null
+    },
+    {
+      "id": 13,
+      "nombre": "Revestimientos – Dormitorio 2",
+      "zona": "Z3",
+      "avance": 0,
+      "estado": "Pendiente",
+      "presupuesto": 13400000,
+      "ejecutado": 0,
+      "responsable": "Luis Vera",
+      "fechaInicioReal": null,
+      "fechaTerminoReal": null
+    },
+    {
+      "id": 14,
+      "nombre": "Terminaciones y Pintura",
+      "zona": "Z3",
+      "avance": 0,
+      "estado": "Pendiente",
+      "presupuesto": 18200000,
+      "ejecutado": 0,
+      "responsable": "Ana Torres",
+      "fechaInicioReal": null,
+      "fechaTerminoReal": null
+    },
+    {
+      "id": 15,
+      "nombre": "Obras Exteriores y Paisajismo",
+      "zona": "Z3",
+      "avance": 0,
+      "estado": "Pendiente",
+      "presupuesto": 15800000,
+      "ejecutado": 0,
+      "responsable": "Javier Rojas",
+      "fechaInicioReal": null,
+      "fechaTerminoReal": null
+    }
+  ],
+  "estadosPago": [
+    {
+      "ep": "EP-001",
+      "descripcion": "Obras Preliminares + Excavaciones",
+      "fechaEmision": "2024-10-01",
+      "fechaPago": "2024-10-20",
+      "monto": 28500000,
+      "estado": "Pagado",
+      "observacion": ""
+    },
+    {
+      "ep": "EP-002",
+      "descripcion": "Fundaciones completas",
+      "fechaEmision": "2024-11-15",
+      "fechaPago": "2024-12-08",
+      "monto": 18650000,
+      "estado": "Pagado",
+      "observacion": ""
+    },
+    {
+      "ep": "EP-003",
+      "descripcion": "Estructura Losa P1 – 85% avance",
+      "fechaEmision": "2025-01-20",
+      "fechaPago": null,
+      "monto": 11350000,
+      "estado": "En revisión",
+      "observacion": "Pendiente visación ITO"
+    },
+    {
+      "ep": "EP-004",
+      "descripcion": "Instalaciones sanitarias Z2 parcial",
+      "fechaEmision": "2025-02-10",
+      "fechaPago": null,
+      "monto": 6435000,
+      "estado": "Pendiente",
+      "observacion": "Falta documentación respaldo"
+    }
+  ],
+  "alertas": [
+    {
+      "id": 1,
+      "prioridad": "alta",
+      "tipo": "Plazo",
+      "mensaje": "EP-003 lleva 18 días sin visación del ITO. Riesgo de mora contractual.",
+      "zona": "Z1",
+      "fecha": "2025-02-07",
+      "responsable": "ITO Mandante"
+    },
+    {
+      "id": 2,
+      "prioridad": "alta",
+      "tipo": "Abastecimiento",
+      "mensaje": "Acero Ø12 sin stock confirmado para Losa P2. Inicio proyectado 10-Ene en riesgo.",
+      "zona": "Z1",
+      "fecha": "2025-01-28",
+      "responsable": "Pedro Soto"
+    },
+    {
+      "id": 3,
+      "prioridad": "media",
+      "tipo": "Documentación",
+      "mensaje": "EP-004 requiere informe de avance fotográfico firmado antes del pago.",
+      "zona": "Z2",
+      "fecha": "2025-02-10",
+      "responsable": "Mario Díaz"
+    },
+    {
+      "id": 4,
+      "prioridad": "media",
+      "tipo": "Coordinación",
+      "mensaje": "Instalaciones eléctricas Z2 con 15 días de retraso respecto a programa.",
+      "zona": "Z2",
+      "fecha": "2025-01-30",
+      "responsable": "Carlos Muñoz"
+    },
+    {
+      "id": 5,
+      "prioridad": "baja",
+      "tipo": "Planificación",
+      "mensaje": "Revisar fecha de inicio de tabiques Z3 según avance de estructura.",
+      "zona": "Z3",
+      "fecha": "2025-02-01",
+      "responsable": "Jefe de Obra"
+    }
+  ],
+  "hojaRuta": [
+    {
+      "zona": "Z1",
+      "nombre": "Dormitorio 1",
+      "color": "#0ea5e9",
+      "progreso": 61,
+      "fases": [
+        { "nombre": "Obras Preliminares", "inicio": "2024-09-01", "fin": "2024-09-20", "estado": "Completo" },
+        { "nombre": "Excavaciones", "inicio": "2024-09-10", "fin": "2024-10-05", "estado": "Completo" },
+        { "nombre": "Fundaciones", "inicio": "2024-10-06", "fin": "2024-11-15", "estado": "Completo" },
+        { "nombre": "Estructura P1", "inicio": "2024-11-16", "fin": "2025-02-28", "estado": "En proceso" },
+        { "nombre": "Estructura P2", "inicio": "2025-01-10", "fin": "2025-04-30", "estado": "En proceso" },
+        { "nombre": "Tabiques", "inicio": "2025-05-01", "fin": "2025-06-30", "estado": "Pendiente" }
+      ]
+    },
+    {
+      "zona": "Z2",
+      "nombre": "Área Común",
+      "color": "#8b5cf6",
+      "progreso": 25,
+      "fases": [
+        { "nombre": "Inst. Sanitarias", "inicio": "2024-12-01", "fin": "2025-04-30", "estado": "En proceso" },
+        { "nombre": "Inst. Eléctricas", "inicio": "2024-12-15", "fin": "2025-05-15", "estado": "En proceso" },
+        { "nombre": "Revestimientos", "inicio": "2025-05-16", "fin": "2025-07-15", "estado": "Pendiente" },
+        { "nombre": "Carpintería", "inicio": "2025-06-01", "fin": "2025-07-31", "estado": "Pendiente" }
+      ]
+    },
+    {
+      "zona": "Z3",
+      "nombre": "Dormitorio 2",
+      "color": "#10b981",
+      "progreso": 0,
+      "fases": [
+        { "nombre": "Tabiques", "inicio": "2025-05-01", "fin": "2025-06-15", "estado": "Pendiente" },
+        { "nombre": "Inst. Sanitarias", "inicio": "2025-05-20", "fin": "2025-07-10", "estado": "Pendiente" },
+        { "nombre": "Revestimientos", "inicio": "2025-07-01", "fin": "2025-08-10", "estado": "Pendiente" },
+        { "nombre": "Terminaciones", "inicio": "2025-07-15", "fin": "2025-08-31", "estado": "Pendiente" }
+      ]
+    }
+  ]
+}
